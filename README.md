@@ -26,9 +26,13 @@ The nearest locations are shown in a map for better understanding.
 
 <img src='https://raw.githubusercontent.com/dinesh99639/Coursera_Capstone/master/capstone_map.png'>
 
-The data is cleaned by splitting and removing some columns.\n\n<u>Old table</u>
+The data is cleaned by splitting and removing some columns.
 
-<img src='https://raw.githubusercontent.com/dinesh99639/Coursera_Capstone/master/capstone_oldtab.png'>\n\n<u>New table</u>
+<u>Old table</u>
+
+<img src='https://raw.githubusercontent.com/dinesh99639/Coursera_Capstone/master/capstone_oldtab.png'>
+
+<u>New table</u>
 
 <img src='https://raw.githubusercontent.com/dinesh99639/Coursera_Capstone/master/capstone_newtab.png'>
 
