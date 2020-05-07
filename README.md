@@ -2,11 +2,17 @@
 
 ## Introduction
 
-The main target of this project is to find similarities between the cities and clusters together so that we can find popular items in that location.\n\nIt will provide the best places to visit near you depending upon your interest.
+The main target of this project is to find similarities between the cities and clusters together so that we can find popular items in that location.
+
+It will provide the best places to visit near you depending upon your interest.
 
 ## Data
 
-We can use the real-time location data by using the geocoders module and Geospatial coordinates file.\n\nThe data from the previous project (Assignment) can also be used.\n\nFoursquare data can be used.
+We can use the real-time location data by using the geocoders module and Geospatial coordinates file.
+
+The data from the previous project (Assignment) can also be used.
+
+Foursquare data can be used.
 
 ## Methodology
 
@@ -18,9 +24,13 @@ Clustering (Un-supervised Machine Learning Algorithm) is used to group the locat
 
 The nearest locations are shown in a map for better understanding.
 
-<img src='https://raw.githubusercontent.com/dinesh99639/Coursera_Capstone/master/capstone_map.png'>\n\nThe data is cleaned by splitting and removing some columns.\n\n<u>Old table</u>
+<img src='https://raw.githubusercontent.com/dinesh99639/Coursera_Capstone/master/capstone_map.png'>
 
-<img src='https://raw.githubusercontent.com/dinesh99639/Coursera_Capstone/master/capstone_oldtab.png'>\n\n<u>New table</u>\n\n<img src='https://raw.githubusercontent.com/dinesh99639/Coursera_Capstone/master/capstone_newtab.png'>
+The data is cleaned by splitting and removing some columns.\n\n<u>Old table</u>
+
+<img src='https://raw.githubusercontent.com/dinesh99639/Coursera_Capstone/master/capstone_oldtab.png'>\n\n<u>New table</u>
+
+<img src='https://raw.githubusercontent.com/dinesh99639/Coursera_Capstone/master/capstone_newtab.png'>
 
 The final table of the project obtained is 
 
